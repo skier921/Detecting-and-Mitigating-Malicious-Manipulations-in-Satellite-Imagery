@@ -13,6 +13,10 @@ Contains all the scripts and code modules required for watermark embedding, mani
 Link to the EUROSAT dataset used in our experiments:
 https://zenodo.org/records/7711810#.ZAm3k-zMKEA
 Ensure you download the Mulit-Spectrum version. 
+![Class Distrubtrion](https://github.com/skier921/Detecting-and-Mitigating-Malicious-Manipulations-in-Satellite-Imagery/assets/7799202/5b30b0d9-8e05-4537-bacb-36081d0e5ca7)
+
+<img width="908" alt="Dataset examples" src="https://github.com/skier921/Detecting-and-Mitigating-Malicious-Manipulations-in-Satellite-Imagery/assets/7799202/8c2e54ed-9e33-4804-bf4b-2c1da6dd8c5c">
+
 
 ### `03_results/`
 Stores the raw output from the experiments, including detection accuracy metrics, logs, and intermediate data for analysis.
