@@ -10,12 +10,9 @@ The repository is organized into the following directories:
 Contains all the scripts and code modules required for watermark embedding, manipulation detection, and other image processing tasks.
 
 ### `02_data/`
-<<<<<<< HEAD
-Here is the link to download the data yourself: https://zenodo.org/records/7711810#.ZAm3k-zMKEA
-Ensure you download the Mulit-Spectrum version.  
-=======
-links to the EUROSAT dataset used in our experiments
->>>>>>> parent of f2a9f277 (updated readme)
+Link to the EUROSAT dataset used in our experiments:
+https://zenodo.org/records/7711810#.ZAm3k-zMKEA
+Ensure you download the Mulit-Spectrum version. 
 
 ### `03_results/`
 Stores the raw output from the experiments, including detection accuracy metrics, logs, and intermediate data for analysis.
