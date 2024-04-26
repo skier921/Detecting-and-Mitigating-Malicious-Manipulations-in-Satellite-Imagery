@@ -2,6 +2,13 @@
 
 Welcome to the GitHub repository for the Master's thesis on utilizing watermarking to detect and mitigate malicious manipulations in satellite imagery.
 
+![generated](https://github.com/skier921/Detecting-and-Mitigating-Malicious-Manipulations-in-Satellite-Imagery/assets/7799202/68676567-2387-4dce-979f-9e312f01b506)
+GAN Generated Image
+![10038wmk](https://github.com/skier921/Detecting-and-Mitigating-Malicious-Manipulations-in-Satellite-Imagery/assets/7799202/b3c6bc81-cd88-42bf-90c3-8daf2fcc3c62)
+Watermarked Image
+![10002nwm](https://github.com/skier921/Detecting-and-Mitigating-Malicious-Manipulations-in-Satellite-Imagery/assets/7799202/da15b63e-71dd-4d3c-9487-a59ff1488967)
+Orginal Image
+
 ## Repository Structure
 
 The repository is organized into the following directories:
@@ -15,7 +22,7 @@ https://zenodo.org/records/7711810#.ZAm3k-zMKEA
 Ensure you download the Mulit-Spectrum version. 
 ![Class Distrubtrion](https://github.com/skier921/Detecting-and-Mitigating-Malicious-Manipulations-in-Satellite-Imagery/assets/7799202/5b30b0d9-8e05-4537-bacb-36081d0e5ca7)
 
-<img width="908" alt="Dataset examples" src="https://github.com/skier921/Detecting-and-Mitigating-Malicious-Manipulations-in-Satellite-Imagery/assets/7799202/8c2e54ed-9e33-4804-bf4b-2c1da6dd8c5c">
+![download](https://github.com/skier921/Detecting-and-Mitigating-Malicious-Manipulations-in-Satellite-Imagery/assets/7799202/3fdf95fe-05ed-4dde-8a29-3eddf073b1b0)
 
 
 ### `03_results/`
