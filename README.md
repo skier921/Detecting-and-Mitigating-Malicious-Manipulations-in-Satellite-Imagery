@@ -30,8 +30,8 @@ The repository is organized into the following directories:
 Contains all the scripts and code modules required for watermark embedding, manipulation detection, and other image processing tasks.
 
 ### `02_data/`
-Link to the EUROSAT dataset used in our experiments:
-https://zenodo.org/records/7711810#.ZAm3k-zMKEA
+Link to the EUROSAT dataset used in the experiments:
+https://zenodo.org/records/7711810#.ZAm3k-zMKEA.
 Ensure you download the RGB version or use the torch dataset in the notebook already
 ![Class Distrubtrion](https://github.com/skier921/Detecting-and-Mitigating-Malicious-Manipulations-in-Satellite-Imagery/assets/7799202/6b15eddf-e410-4e34-beb2-1b90d6e41936)
 
@@ -39,7 +39,7 @@ Ensure you download the RGB version or use the torch dataset in the notebook alr
 
 
 ### `03_results/`
-Stores the raw output from the experiments, including detection accuracy metrics, logs, and intermediate data for analysis.
+Stores the raw output from the experiments: including detection accuracy metrics, logs, and intermediate data for analysis.
 
 ### `04_graphs/`
 Houses all visual outputs, such as plots and graphs, illustrating the effectiveness of watermarking and manipulation detection methodologies.
@@ -50,7 +50,7 @@ To replicate the experiments or apply the watermarking techniques, navigate to t
 
 ## Visualizations
 
-Graphical illustrations of results can be found under `04_graphs/`. They provide a visual understanding of the methods' performance.
+Graphical illustrations of results can be found under `04_graphs/`. These graphs provide a visual understanding of the methods' performance.
 
 ## License
 
