@@ -9,12 +9,12 @@ Welcome to the GitHub repository for the Master's thesis on utilizing watermarki
       <em>GAN Generated Image</em>
     </td>
     <td align="center">
-      <img src="https://github.com/skier921/Detecting-and-Mitigating-Malicious-Manipulations-in-Satellite-Imagery/assets/7799202/b3c6bc81-cd88-42bf-90c3-8daf2fcc3c62" alt="Watermarked Image" style="width:300px; height:200px;">
+      <img src="https://github.com/skier921/Detecting-and-Mitigating-Malicious-Manipulations-in-Satellite-Imagery/assets/7799202/ff6401e4-3763-40e3-b2e0-a5b37810dc97" alt="Watermarked Image" style="width:300px; height:200px;">
       <br>
       <em>Watermarked Image</em>
     </td>
     <td align="center">
-      <img src="https://github.com/skier921/Detecting-and-Mitigating-Malicious-Manipulations-in-Satellite-Imagery/assets/7799202/da15b63e-71dd-4d3c-9487-a59ff1488967" alt="Original Image" style="width:300px; height:200px;">
+      <img src="https://github.com/skier921/Detecting-and-Mitigating-Malicious-Manipulations-in-Satellite-Imagery/assets/7799202/5347fe48-1e40-4b43-baa9-64f379d12e7e" alt="Original Image" style="width:300px; height:200px;">
       <br>
       <em>Original Image</em>
     </td>
